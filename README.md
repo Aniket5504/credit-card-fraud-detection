@@ -7,7 +7,7 @@ This project aims to detect fraudulent transactions in a credit card dataset usi
 🚀 Technologies & Tools Used:
 Programming Language: R
 
-Libraries & Packages:
+**Libraries & Packages:**
 
 randomForest - For training a Random Forest classifier
 
@@ -18,7 +18,7 @@ ROSE - For handling class imbalance (oversampling & undersampling)
 ggplot2 - For data visualization
 
 
-Machine Learning Concepts:
+**Machine Learning Concepts:**
 
 Supervised Learning (Classification)
 
