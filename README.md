@@ -10,13 +10,21 @@ Programming Language: R
 Libraries & Packages:
 
 randomForest - For training a Random Forest classifier
+
 caret - For model evaluation and train-test splitting
+
 ROSE - For handling class imbalance (oversampling & undersampling)
+
 ggplot2 - For data visualization
+
 
 Machine Learning Concepts:
 
 Supervised Learning (Classification)
+
 Data Balancing (ROSE for synthetic sampling)
+
 Feature Engineering & Selection
+
 Model Evaluation (Confusion Matrix, Accuracy, Precision, Recall, F1-Score)
+
