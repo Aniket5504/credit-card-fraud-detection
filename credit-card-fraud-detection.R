@@ -1,4 +1,4 @@
-
+# Download the file from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 install.packages(c("randomForest", "caret", "ROSE", "ggplot2"), dependencies = TRUE)
 
 
