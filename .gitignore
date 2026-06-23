@@ -1,11 +1,6 @@
 # Dataset (download separately from Kaggle)
 creditcard.csv
 
-# Generated outputs
-results.json
-feature_importance.png
-confusion_matrix.png
-
 # Python
 __pycache__/
 *.pyc
